@@ -17,6 +17,9 @@
     <Filter Include="Engine\01. Header">
       <UniqueIdentifier>{06daa003-91ea-4a8a-9dfb-b5e838c3af92}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\03. Manager">
+      <UniqueIdentifier>{52d0f87f-7957-41d2-adac-52783bdc0dd7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -37,14 +40,19 @@
     <ClInclude Include="define.h">
       <Filter>Engine\01. Header</Filter>
     </ClInclude>
+    <ClInclude Include="CKeyManager.h">
+      <Filter>Engine\03. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WindowsProject.cpp">
-      <Filter>Default</Filter>
-    </ClCompile>
     <ClCompile Include="Core.cpp">
       <Filter>Engine\02. Core</Filter>
     </ClCompile>
+    <ClCompile Include="CKeyManager.cpp">
+      <Filter>Engine\03. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowsProject.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="WindowsProject.rc">
