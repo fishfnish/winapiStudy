@@ -1,2 +1,4 @@
-﻿  WindowsProject.cpp
-  WindowsProject.vcxproj -> C:\Users\KOREAIT\Documents\GitHub\winapiStudy\WindowsProject\x64\Debug\WindowsProject.exe
+﻿  CKeyManager.cpp
+  Core.cpp
+  TimeMgr.cpp
+  WindowsProject.vcxproj -> C:\프로젝트\api\winapiStudy\WindowsProject\x64\Debug\WindowsProject.exe

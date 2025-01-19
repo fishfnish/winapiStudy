@@ -5,5 +5,9 @@
 class CKeyManager
 {
 	SINGLE(CKeyManager);
+private:
+
+public:
+	void init();
 };
 

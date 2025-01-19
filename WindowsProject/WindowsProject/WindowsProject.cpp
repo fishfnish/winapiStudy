@@ -1,5 +1,5 @@
 ﻿// WindowsProject.cpp : 애플리케이션에 대한 진입점을 정의합니다.
-//
+// 11화 부터
 #include "pch.h"
 #include "framework.h"
 #include "WindowsProject.h"
@@ -40,7 +40,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
         return FALSE;
     }
 
-    if (FAILED(Core::GetInst()->init(g_hWnd, POINT{680, 420})))
+    if (FAILED(Core::GetInst()->init(g_hWnd, POINT{1280, 768})))
     {
         MessageBox(nullptr, L"Core 객체 초기화 실패", L"ERROR", MB_OK);
 
@@ -136,6 +136,7 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
    return TRUE;
 }
 
+
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
     switch (message)
@@ -161,7 +162,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
         {
             PAINTSTRUCT ps;
             HDC hdc = BeginPaint(hWnd, &ps);
-            // TODO: 여기에 hdc를 사용하는 그리기 코드를 추가합니다...
+            //Rectangle(hdc, 1180, 0, 1280, 100);
             EndPaint(hWnd, &ps);
         }
         break;

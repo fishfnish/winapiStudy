@@ -41,15 +41,17 @@ class Core
 {
 	SINGLE(Core);
 private:
-	HWND m_hWnd; // 메인 윈도우 핸들
-	POINT m_ptResoultion; // 메인 윈도우 해상도
+	HWND	m_hWnd;			// 메인 윈도우 핸들
+	POINT	m_ptResoultion; // 메인 윈도우 해상도
+	HDC		m_hDc;			// 메인 윈도우에 Draw 할 DC
 
 public:
 	int init(HWND _hWnd, POINT _ptResoultion);
 	void progress();
 
 private:
-	Core();
-	~Core();
+	void Update();
+	void Render();
+
 };
 

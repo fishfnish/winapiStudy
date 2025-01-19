@@ -20,6 +20,15 @@
     <Filter Include="Engine\03. Manager">
       <UniqueIdentifier>{52d0f87f-7957-41d2-adac-52783bdc0dd7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object">
+      <UniqueIdentifier>{741fb7eb-5e69-4bbc-983b-d729a7d84138}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03. Manager\TimeMgr">
+      <UniqueIdentifier>{5cf850d4-a98d-45ab-a028-344513ddf5df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\03. Manager\CkeyMgr">
+      <UniqueIdentifier>{846f7ebc-2f72-437f-a0ed-48321cc6f8be}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -40,19 +49,34 @@
     <ClInclude Include="define.h">
       <Filter>Engine\01. Header</Filter>
     </ClInclude>
-    <ClInclude Include="CKeyManager.h">
-      <Filter>Engine\03. Manager</Filter>
-    </ClInclude>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Object.h">
+      <Filter>Engine\04. Object</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Engine\01. Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>Engine\03. Manager\TimeMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeyManager.h">
+      <Filter>Engine\03. Manager\CkeyMgr</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Core.cpp">
       <Filter>Engine\02. Core</Filter>
     </ClCompile>
-    <ClCompile Include="CKeyManager.cpp">
-      <Filter>Engine\03. Manager</Filter>
-    </ClCompile>
     <ClCompile Include="WindowsProject.cpp" />
+    <ClCompile Include="Object.cpp">
+      <Filter>Engine\04. Object</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>Engine\03. Manager\TimeMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeyManager.cpp">
+      <Filter>Engine\03. Manager\CkeyMgr</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="WindowsProject.rc">
