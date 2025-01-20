@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\TimeMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\TimeMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\CKeyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\CKeyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,52 +62,90 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CKeyManager.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
-              "RelativeToolTip": "WindowsProject\\CKeyManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T05:04:53.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
-              "RelativeDocumentMoniker": "WindowsProject\\pch.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
-              "RelativeToolTip": "WindowsProject\\pch.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T05:07:22.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "TimeMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\TimeMgr.cpp",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp",
+              "RelativeToolTip": "WindowsProject\\TimeMgr.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T21:07:00.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CKeyManager.h",
               "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h",
               "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.h",
               "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h",
               "RelativeToolTip": "WindowsProject\\CKeyManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-13T05:04:51.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowsProject.cpp",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\WindowsProject.cpp",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
+              "RelativeToolTip": "WindowsProject\\WindowsProject.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T02:18:54.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CKeyManager.cpp",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.cpp",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
+              "RelativeToolTip": "WindowsProject\\CKeyManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T05:04:53.49Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TimeMgr.h",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h",
+              "RelativeDocumentMoniker": "WindowsProject\\TimeMgr.h",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h",
+              "RelativeToolTip": "WindowsProject\\TimeMgr.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T21:06:45.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cpp",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\Core.cpp",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp*",
+              "RelativeToolTip": "WindowsProject\\Core.cpp*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAlwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T02:56:12.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "define.h",
               "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\define.h",
               "RelativeDocumentMoniker": "WindowsProject\\define.h",
               "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\define.h",
               "RelativeToolTip": "WindowsProject\\define.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-13T04:35:09.059Z",
               "EditorCaption": ""
@@ -100,36 +158,59 @@
               "RelativeDocumentMoniker": "WindowsProject\\Core.h",
               "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h",
               "RelativeToolTip": "WindowsProject\\Core.h",
-              "ViewState": "AgIAABIAAAAAAAAAAAAlwCgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAlwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-13T02:55:41.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WindowsProject.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\WindowsProject.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp*",
-              "RelativeToolTip": "WindowsProject\\WindowsProject.cpp*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T02:18:54.317Z",
+              "DocumentIndex": 9,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h",
+              "RelativeDocumentMoniker": "WindowsProject\\Object.h",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h",
+              "RelativeToolTip": "WindowsProject\\Object.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T19:38:45.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "struct.h",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h",
+              "RelativeDocumentMoniker": "WindowsProject\\struct.h",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h",
+              "RelativeToolTip": "WindowsProject\\struct.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T20:45:19.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Core.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\Core.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
-              "RelativeToolTip": "WindowsProject\\Core.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\Object.cpp",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp",
+              "RelativeToolTip": "WindowsProject\\Object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T02:56:12.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T19:39:15.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
+              "RelativeDocumentMoniker": "WindowsProject\\pch.h",
+              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
+              "RelativeToolTip": "WindowsProject\\pch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T05:07:22.227Z"
             }
           ]
         }
