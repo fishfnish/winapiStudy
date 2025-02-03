@@ -13,7 +13,12 @@ public:
 	Vec2 GetSize() { return m_vSize; }
 
 public:
+	void Update();
+	void Render(HDC _dc);
+
+
+public:
 	Object();
-	~Object();
+	virtual ~Object();
 };
 

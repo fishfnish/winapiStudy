@@ -136,6 +136,9 @@
     <ClInclude Include="Object.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneMgr.h" />
+    <ClInclude Include="Scene_start.h" />
     <ClInclude Include="struct.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="TimeMgr.h" />
@@ -145,6 +148,9 @@
     <ClCompile Include="CKeyManager.cpp" />
     <ClCompile Include="Core.cpp" />
     <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SceneMgr.cpp" />
+    <ClCompile Include="Scene_start.cpp" />
     <ClCompile Include="TimeMgr.cpp" />
     <ClCompile Include="WindowsProject.cpp" />
   </ItemGroup>

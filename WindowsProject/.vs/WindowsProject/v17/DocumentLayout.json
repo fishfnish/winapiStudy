@@ -1,54 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\",
+  "WorkspaceRootPath": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\TimeMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\TimeMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\CKeyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\CKeyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\SceneMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\WindowsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\CKeyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene_start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Scene_start.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene_start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Scene_start.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\CKeyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\SceneMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\TimeMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0E49422-AC32-48B7-BB66-443460552B84}|WindowsProject\\WindowsProject.vcxproj|solutionrelative:WindowsProject\\TimeMgr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,159 +82,224 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TimeMgr.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\TimeMgr.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp",
-              "RelativeToolTip": "WindowsProject\\TimeMgr.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-19T21:07:00.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CKeyManager.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h",
-              "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h",
-              "RelativeToolTip": "WindowsProject\\CKeyManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "define.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\define.h",
+              "RelativeDocumentMoniker": "WindowsProject\\define.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\define.h",
+              "RelativeToolTip": "WindowsProject\\define.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T05:04:51.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T04:35:09.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WindowsProject.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\WindowsProject.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
-              "RelativeToolTip": "WindowsProject\\WindowsProject.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Title": "SceneMgr.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\SceneMgr.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\SceneMgr.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\SceneMgr.cpp",
+              "RelativeToolTip": "WindowsProject\\SceneMgr.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T02:18:54.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CKeyManager.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
-              "RelativeToolTip": "WindowsProject\\CKeyManager.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T05:04:53.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TimeMgr.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h",
-              "RelativeDocumentMoniker": "WindowsProject\\TimeMgr.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h",
-              "RelativeToolTip": "WindowsProject\\TimeMgr.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-19T21:06:45.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T05:15:49.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Core.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\Core.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
-              "RelativeToolTip": "WindowsProject\\Core.cpp",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\Object.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp",
+              "RelativeToolTip": "WindowsProject\\Object.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T02:56:12.13Z",
+              "WhenOpened": "2025-01-19T19:39:15.875Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WindowsProject.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\WindowsProject.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\WindowsProject.cpp",
+              "RelativeToolTip": "WindowsProject\\WindowsProject.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAADwv0sAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T02:18:54.317Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "define.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\define.h",
-              "RelativeDocumentMoniker": "WindowsProject\\define.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\define.h",
-              "RelativeToolTip": "WindowsProject\\define.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T04:35:09.059Z",
-              "EditorCaption": ""
+              "Title": "CKeyManager.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.cpp",
+              "RelativeToolTip": "WindowsProject\\CKeyManager.cpp",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-02T10:05:23.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Core.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h",
-              "RelativeDocumentMoniker": "WindowsProject\\Core.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h",
-              "RelativeToolTip": "WindowsProject\\Core.h",
-              "ViewState": "AgIAACAAAAAAAAAAAAAlwDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-13T02:55:41.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Object.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h",
               "RelativeDocumentMoniker": "WindowsProject\\Object.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Object.h",
               "RelativeToolTip": "WindowsProject\\Object.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-19T19:38:45.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "struct.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h",
-              "RelativeDocumentMoniker": "WindowsProject\\struct.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h",
-              "RelativeToolTip": "WindowsProject\\struct.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-19T20:45:19.235Z",
-              "EditorCaption": ""
+              "Title": "Core.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\Core.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Core.cpp",
+              "RelativeToolTip": "WindowsProject\\Core.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-13T02:56:12.13Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Object.cpp",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp",
-              "RelativeDocumentMoniker": "WindowsProject\\Object.cpp",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\Object.cpp",
-              "RelativeToolTip": "WindowsProject\\Object.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Title": "Scene.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\Scene.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene.cpp",
+              "RelativeToolTip": "WindowsProject\\Scene.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-19T19:39:15.875Z"
+              "WhenOpened": "2025-02-02T04:54:47.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CKeyManager.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h",
+              "RelativeDocumentMoniker": "WindowsProject\\CKeyManager.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\CKeyManager.h",
+              "RelativeToolTip": "WindowsProject\\CKeyManager.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAlwEsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T05:04:51.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Scene_start.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene_start.h",
+              "RelativeDocumentMoniker": "WindowsProject\\Scene_start.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene_start.h",
+              "RelativeToolTip": "WindowsProject\\Scene_start.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-02T05:24:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Scene_start.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene_start.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\Scene_start.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene_start.cpp",
+              "RelativeToolTip": "WindowsProject\\Scene_start.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-02T05:24:21.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "struct.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h",
+              "RelativeDocumentMoniker": "WindowsProject\\struct.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\struct.h",
+              "RelativeToolTip": "WindowsProject\\struct.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T20:45:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene.h",
+              "RelativeDocumentMoniker": "WindowsProject\\Scene.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Scene.h",
+              "RelativeToolTip": "WindowsProject\\Scene.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-02T04:54:43.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
               "RelativeDocumentMoniker": "WindowsProject\\pch.h",
-              "ToolTip": "C:\\Users\\KOREAIT\\Documents\\GitHub\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\pch.h",
               "RelativeToolTip": "WindowsProject\\pch.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-13T05:07:22.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SceneMgr.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\SceneMgr.h",
+              "RelativeDocumentMoniker": "WindowsProject\\SceneMgr.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\SceneMgr.h",
+              "RelativeToolTip": "WindowsProject\\SceneMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-02T05:15:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h",
+              "RelativeDocumentMoniker": "WindowsProject\\Core.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\Core.h",
+              "RelativeToolTip": "WindowsProject\\Core.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T02:55:41.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimeMgr.cpp",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp",
+              "RelativeDocumentMoniker": "WindowsProject\\TimeMgr.cpp",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.cpp",
+              "RelativeToolTip": "WindowsProject\\TimeMgr.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T21:07:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeMgr.h",
+              "DocumentMoniker": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h",
+              "RelativeDocumentMoniker": "WindowsProject\\TimeMgr.h",
+              "ToolTip": "C:\\\uD504\uB85C\uC81D\uD2B8\\api\\winapiStudy\\WindowsProject\\WindowsProject\\TimeMgr.h",
+              "RelativeToolTip": "WindowsProject\\TimeMgr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T21:06:45.593Z"
             }
           ]
         }

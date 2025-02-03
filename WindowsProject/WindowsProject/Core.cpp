@@ -3,9 +3,8 @@
 #include "Object.h"
 #include "TimeMgr.h"
 #include "CKeyManager.h"
+#include "SceneMgr.h"
 //Core* Core::g_pInst = nullptr;
-
-Object g_obj;
 
 Core::Core()
 	: m_hWnd(0)
@@ -43,9 +42,7 @@ int Core::init(HWND _hWnd, POINT _ptResoultion)
 
 	TimeMgr::GetInst()->init();
 	CKeyManager::GetInst()->init();
-
-	g_obj.SetPos(Vec2((float)(m_ptResoultion.x / 2), (float)(m_ptResoultion.y / 2)));
-	g_obj.SetSize(Vec2(100, 100));
+	SceneMgr::GetInst()->init();
 
 	return S_OK;
 }
@@ -53,42 +50,15 @@ int Core::init(HWND _hWnd, POINT _ptResoultion)
 void Core::progress()
 {
 	TimeMgr::GetInst()->Update();
+	CKeyManager::GetInst()->Update();
+	SceneMgr::GetInst()->Update();
 
-	Update();
-
-	Render();
-}
-
-void Core::Update()
-{
-	Vec2 vPos = g_obj.GetPos();
-
-	if (GetAsyncKeyState(VK_LEFT) & 0x8000)
-	{
-		vPos.x -= 200.f * DT;
-	}
-
-	if (GetAsyncKeyState(VK_RIGHT) & 0x8000)
-	{
-		vPos.x += 200.f * DT;
-	}
-
-	g_obj.SetPos(vPos);
-}
-
-void Core::Render()
-{
+	// ·»´õ¸µ
+	//==========
 	//È­¸é claer
 	Rectangle(m_memDc, -1, -1, m_ptResoultion.x + 1, m_ptResoultion.y + 1);
-
-	Vec2 vPos = g_obj.GetPos();
-	Vec2 vSize = g_obj.GetSize();
-
-	Rectangle(m_memDc
-		, int(vPos.x - vSize.x / 2.f)
-		, int(vPos.y - vSize.y / 2.f)
-		, int(vPos.x + vSize.x / 2.f)
-		, int(vPos.y + vSize.y / 2.f));
+	
+	SceneMgr::GetInst()->Render(m_memDc);
 
 	BitBlt(m_hDc, 0, 0, m_ptResoultion.x, m_ptResoultion.y
 		, m_memDc, 0, 0, SRCCOPY);

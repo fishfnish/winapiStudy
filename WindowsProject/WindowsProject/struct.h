@@ -18,7 +18,7 @@ public:
 	{}
 
 	Vec2(int _x, int _y)
-		:x((float)_x)
-		,y((float)_y)
+		: x((float)_x)
+		, y((float)_y)
 	{}
 };
