@@ -41,6 +41,12 @@
     <Filter Include="Engine\05. Scene\Scene_Tool">
       <UniqueIdentifier>{abbd05be-116c-4f3e-acac-8e58335e73d1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\06. Resouce">
+      <UniqueIdentifier>{a5f3f303-aacb-48f7-be65-eb8d3a1c5a79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\06. Resouce\CTexture">
+      <UniqueIdentifier>{ce64db9d-cac0-4f34-9ead-de849f0ad6f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -83,6 +89,12 @@
     <ClInclude Include="Scene_start.h">
       <Filter>Engine\05. Scene\Scene_Start</Filter>
     </ClInclude>
+    <ClInclude Include="CRes.h">
+      <Filter>Engine\06. Resouce</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Engine\06. Resouce\CTexture</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Core.cpp">
@@ -106,6 +118,12 @@
     </ClCompile>
     <ClCompile Include="Scene_start.cpp">
       <Filter>Engine\05. Scene\Scene_Start</Filter>
+    </ClCompile>
+    <ClCompile Include="CRes.cpp">
+      <Filter>Engine\06. Resouce</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Engine\06. Resouce\CTexture</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -131,6 +131,7 @@
   <ItemGroup>
     <ClInclude Include="CKeyManager.h" />
     <ClInclude Include="Core.h" />
+    <ClInclude Include="CRes.h" />
     <ClInclude Include="define.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="Object.h" />
@@ -141,16 +142,19 @@
     <ClInclude Include="Scene_start.h" />
     <ClInclude Include="struct.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="Texture.h" />
     <ClInclude Include="TimeMgr.h" />
     <ClInclude Include="WindowsProject.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CKeyManager.cpp" />
     <ClCompile Include="Core.cpp" />
+    <ClCompile Include="CRes.cpp" />
     <ClCompile Include="Object.cpp" />
     <ClCompile Include="Scene.cpp" />
     <ClCompile Include="SceneMgr.cpp" />
     <ClCompile Include="Scene_start.cpp" />
+    <ClCompile Include="Texture.cpp" />
     <ClCompile Include="TimeMgr.cpp" />
     <ClCompile Include="WindowsProject.cpp" />
   </ItemGroup>

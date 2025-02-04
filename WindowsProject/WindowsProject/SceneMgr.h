@@ -4,7 +4,7 @@ class Scene;
 
 class SceneMgr
 {
-	SINGLE(SceneMgr);
+	SINGLE(SceneMgr)
 private:
 	Scene* m_arrScene[(UINT)SCENE_TYPE::END];	// 모든 씬 목록
 	Scene* m_pCurScene;							// 현재 씬 목록
