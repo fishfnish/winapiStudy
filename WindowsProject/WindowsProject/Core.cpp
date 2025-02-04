@@ -4,6 +4,7 @@
 #include "TimeMgr.h"
 #include "CKeyManager.h"
 #include "SceneMgr.h"
+#include "PathMgr.h"
 //Core* Core::g_pInst = nullptr;
 
 Core::Core()
@@ -40,6 +41,7 @@ int Core::init(HWND _hWnd, POINT _ptResoultion)
 	HBITMAP hOldBit = (HBITMAP)SelectObject(m_memDc, m_hBit);
 	DeleteObject(hOldBit);
 
+	PathMgr::GetInst()->init();
 	TimeMgr::GetInst()->init();
 	CKeyManager::GetInst()->init();
 	SceneMgr::GetInst()->init();
@@ -62,6 +64,8 @@ void Core::progress()
 
 	BitBlt(m_hDc, 0, 0, m_ptResoultion.x, m_ptResoultion.y
 		, m_memDc, 0, 0, SRCCOPY);
+
+	//TimeMgr::GetInst()->Render();
 }
 
 

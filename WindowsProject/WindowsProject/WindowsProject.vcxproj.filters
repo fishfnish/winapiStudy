@@ -47,6 +47,9 @@
     <Filter Include="Engine\06. Resouce\CTexture">
       <UniqueIdentifier>{ce64db9d-cac0-4f34-9ead-de849f0ad6f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\03. Manager\PathMgr">
+      <UniqueIdentifier>{2c1186d2-4ac1-4978-88b4-012c4e8daeb3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -95,6 +98,9 @@
     <ClInclude Include="Texture.h">
       <Filter>Engine\06. Resouce\CTexture</Filter>
     </ClInclude>
+    <ClInclude Include="PathMgr.h">
+      <Filter>Engine\03. Manager\PathMgr</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Core.cpp">
@@ -124,6 +130,9 @@
     </ClCompile>
     <ClCompile Include="Texture.cpp">
       <Filter>Engine\06. Resouce\CTexture</Filter>
+    </ClCompile>
+    <ClCompile Include="PathMgr.cpp">
+      <Filter>Engine\03. Manager\PathMgr</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

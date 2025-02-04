@@ -37,7 +37,10 @@ void TimeMgr::Update()
 	
 	// 이전 카운트 값을 현재값으로 갱신(다음번 계산을 위해서)
 	m_IIPrevCount = m_IICurCount;
+}
 
+void TimeMgr::Render()
+{
 	++m_iCallCount;
 	m_dAcc += m_dDT; // DT 누적
 
@@ -48,9 +51,8 @@ void TimeMgr::Update()
 		m_iCallCount = 0;
 
 		wchar_t sszBuffer[255] = {};
-		wsprintf(sszBuffer, L"FPS : %d, DT : %lf ", m_iFPS, m_dDT );
+		wsprintf(sszBuffer, L"FPS : %d, DT : %lf ", m_iFPS, m_dDT);
 		//wsprintfW(sszBuffer, L"FPS : %d, DT : ", m_iFPS, (int)(m_dDT * 1000000000));
 		SetWindowText(Core::GetInst()->GetMainHwnd(), sszBuffer);
 	}
-
 }
