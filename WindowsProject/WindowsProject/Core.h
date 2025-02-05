@@ -58,5 +58,7 @@ private:
 
 public:
 	HWND GetMainHwnd() { return m_hWnd; }
+	HDC GetMainDc() { return m_hDc; }
+	POINT GetResolution() { return m_ptResoultion; }
 };
 

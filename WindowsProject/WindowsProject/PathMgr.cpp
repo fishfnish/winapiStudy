@@ -27,7 +27,7 @@ void PathMgr::init()
 		}
 	}
 
-	wcscat_s(m_szContentPath, 255, L"\\bin\\texture");
+	wcscat_s(m_szContentPath, 255, L"\\bin\\Content");
 
 	SetWindowText(Core::GetInst()->GetMainHwnd(), m_szContentPath);
 }

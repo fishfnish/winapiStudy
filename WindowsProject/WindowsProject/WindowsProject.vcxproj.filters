@@ -50,6 +50,15 @@
     <Filter Include="Engine\03. Manager\PathMgr">
       <UniqueIdentifier>{2c1186d2-4ac1-4978-88b4-012c4e8daeb3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object\Player">
+      <UniqueIdentifier>{c5fc423e-b8d4-496f-a26a-c94b94ceac2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04. Object\Monster">
+      <UniqueIdentifier>{dcafa409-f7ea-46b0-b885-17fef4be8692}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04. Object\Bullet">
+      <UniqueIdentifier>{2355b0be-9e16-4e8d-97d9-25c707aef0ef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -101,6 +110,15 @@
     <ClInclude Include="PathMgr.h">
       <Filter>Engine\03. Manager\PathMgr</Filter>
     </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Engine\04. Object\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Engine\04. Object\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Engine\04. Object\Bullet</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Core.cpp">
@@ -133,6 +151,15 @@
     </ClCompile>
     <ClCompile Include="PathMgr.cpp">
       <Filter>Engine\03. Manager\PathMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Engine\04. Object\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Engine\04. Object\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Engine\04. Object\Bullet</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

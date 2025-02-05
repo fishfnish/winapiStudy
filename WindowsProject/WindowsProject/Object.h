@@ -13,8 +13,8 @@ public:
 	Vec2 GetSize() { return m_vSize; }
 
 public:
-	void Update();
-	void Render(HDC _dc);
+	virtual void Update() = 0;
+	virtual void Render(HDC _dc);
 
 
 public:

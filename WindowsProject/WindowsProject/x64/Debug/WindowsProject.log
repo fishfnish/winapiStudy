@@ -1,3 +1,4 @@
-﻿  PathMgr.cpp
-C:\Users\KOREAIT\Documents\GitHub\winapiStudy\WindowsProject\WindowsProject\PathMgr.cpp(19,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  WindowsProject.vcxproj -> C:\Users\KOREAIT\Documents\GitHub\winapiStudy\WindowsProject\OutPut\WindowsProject.exe
+﻿  Player.cpp
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\Player.cpp(75,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\Player.cpp(74,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WindowsProject.vcxproj -> C:\프로젝트\api\winapiStudy\WindowsProject\OutPut\WindowsProject.exe

@@ -1,11 +1,23 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  CKeyManager.cpp
   Core.cpp
+  CRes.cpp
+  Object.cpp
   PathMgr.cpp
-C:\Users\KOREAIT\Documents\GitHub\winapiStudy\WindowsProject\WindowsProject\PathMgr.cpp(19,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\Object.cpp(30,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\Object.cpp(29,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\Object.cpp(28,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\Object.cpp(27,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\프로젝트\api\winapiStudy\WindowsProject\WindowsProject\PathMgr.cpp(19,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+  Scene.cpp
+  SceneMgr.cpp
+  Scene_start.cpp
   Texture.cpp
+  TimeMgr.cpp
+  WindowsProject.cpp
   코드를 생성하고 있습니다.
-  0 of 224 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   코드를 생성했습니다.
-  WindowsProject.vcxproj -> C:\Users\KOREAIT\Documents\GitHub\winapiStudy\WindowsProject\OutPut\bin\WindowsProject.exe
+  WindowsProject.vcxproj -> C:\프로젝트\api\winapiStudy\WindowsProject\OutPut\bin\WindowsProject.exe
