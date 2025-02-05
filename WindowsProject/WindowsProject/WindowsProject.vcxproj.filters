@@ -59,6 +59,9 @@
     <Filter Include="Engine\04. Object\Bullet">
       <UniqueIdentifier>{2355b0be-9e16-4e8d-97d9-25c707aef0ef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\03. Manager\ResMgr">
+      <UniqueIdentifier>{b002b088-d3ec-4b60-9eaa-efd2a89ec7d9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -119,6 +122,9 @@
     <ClInclude Include="Bullet.h">
       <Filter>Engine\04. Object\Bullet</Filter>
     </ClInclude>
+    <ClInclude Include="ResMgr.h">
+      <Filter>Engine\03. Manager\ResMgr</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Core.cpp">
@@ -160,6 +166,9 @@
     </ClCompile>
     <ClCompile Include="Bullet.cpp">
       <Filter>Engine\04. Object\Bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="ResMgr.cpp">
+      <Filter>Engine\03. Manager\ResMgr</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

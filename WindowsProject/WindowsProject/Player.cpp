@@ -7,25 +7,18 @@
 #include "Bullet.h"
 
 #include "PathMgr.h"
+#include "ResMgr.h"
 #include "Texture.h"
 
 Player::Player()
 	:m_pTex(nullptr)
 {
-	m_pTex = new Texture;
-
-	wstring strFilePath = PathMgr::GetInst()->GetContentPath();
-	strFilePath += L"\\Galaga.bmp";
-
-	m_pTex->Load(strFilePath);
+	m_pTex = ResMgr::GetInst()->LoadTexture(L"PlayerTex", L"\\Galaga.bmp");
+	int a = 0;
 }
 
 Player::~Player()
 {
-	if (nullptr != m_pTex)
-	{
-		delete m_pTex;
-	}
 }
 
 void Player::Update()

@@ -1,5 +1,6 @@
 #pragma once
 #include "CRes.h"
+
 class Texture :
     public CRes
 {
@@ -14,8 +15,10 @@ public:
 	UINT Height() { return m_bitInfo.bmHeight; }
 	HDC GetDc() { return m_dc; }
 
-public:
+private:
 	Texture();
 	~Texture();
+
+	friend class ResMgr;
 };
 
