@@ -13,7 +13,9 @@ Object::Object()
 
 Object::~Object()
 {
+	//if (nullptr != m_pCollider) delete m_pCollider;
 
+	if (nullptr != m_pAnimator) delete m_pAnimator;
 }
 
 void Object::Render(HDC _dc)

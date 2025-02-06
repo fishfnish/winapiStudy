@@ -41,6 +41,7 @@ int g_arrVK[(int)KEY::LAST] =
 };
 
 CKeyManager::CKeyManager()
+	:_mousePos(POINT{0,0})
 {
 }
 
@@ -114,5 +115,5 @@ void CKeyManager::Update()
 			}
 		}
 	}
-	
+	::GetCursorPos(&_mousePos); // 커서의 좌표를 알아온다
 }

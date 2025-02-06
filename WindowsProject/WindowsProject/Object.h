@@ -1,9 +1,20 @@
 #pragma once
+
+//class Collider;
+class Animator;
+
 class Object
 {
 private:
+	//wstring m_strName;
+
 	Vec2 m_vPos ;
 	Vec2 m_vSize;
+
+	//Collider* m_pCollider;
+	Animator* m_pAnimator;
+
+	//bool m_bAlive;
 
 public:
 	void SetPos(Vec2 _vPos) { m_vPos = _vPos; }

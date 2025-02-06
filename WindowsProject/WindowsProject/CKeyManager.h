@@ -67,11 +67,12 @@ class CKeyManager
 	SINGLE(CKeyManager);
 private:
 	vector<tKeyInfo> m_vecKey;
-
+	POINT			_mousePos;
 public:
 	void init();
 	void Update();
 
 public:
 	KEY_STATE GetKeyState(KEY _eKey) { return m_vecKey[(int)_eKey].eState; }
+	POINT GetMousePos() { return _mousePos; }
 };
